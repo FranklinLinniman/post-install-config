@@ -113,6 +113,6 @@ Admin Panel -> Manage -> Help Topics
 Business Critical Outage,
 Personal Computer Issues,
 Equipment Request,
-Password Reset,
+Password Reset
 </p>
 <br />
