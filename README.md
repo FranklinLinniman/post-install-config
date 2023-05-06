@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/H5hX5st.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z4eoMAR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Roles:
@@ -41,7 +41,7 @@ Supreme Admin *enable all permissions
 <br />
 
 <p>
-<img src="https://i.imgur.com/Z4sYpR6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xJwqHb6.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Departments:
@@ -51,7 +51,7 @@ System Administrators
 <br />
 
 <p>
-<img src="https://i.imgur.com/62q1ruA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YeExHCt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Teams:
@@ -71,7 +71,7 @@ Registration Required: check "Require registration and login to create tickets"
 <br />
 
 <p>
-<img src="https://i.imgur.com/A74x0Qq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JHLujku.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>"
 <p>
 Configure Agents (workers):
@@ -93,7 +93,7 @@ Ken
 <br />
 
 <p>
-<img src="https://i.imgur.com/iSMJmLV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BfvlN9M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure SLA:
@@ -105,7 +105,7 @@ Sev-C (8 hours, business hours)
 <br />
 
 <p>
-<img src="https://i.imgur.com/VcaA7z3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uPPKYEm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Help Topics:
