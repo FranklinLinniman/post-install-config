@@ -31,88 +31,101 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/Z4eoMAR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/ZHnDKEV.png" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Configure Roles:
-Admin Panel -> Agents -> Roles,
-Supreme Admin *enable all permissions 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/xJwqHb6.png" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Configure Departments:
-Admin Panel -> Agents -> Departments:
-System Administrators
+1. Configure Roles:
+ <br>
+-Admin Panel -> Agents -> Roles
+ <br>
+-Supreme Admin *enable all permissions 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/YeExHCt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZEv2XAr.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Teams:
-Admin Panel -> Agents -> Teams
-Level I Support
-Level II Support
-</p>
-<br />
-
-<p>
-</p>
-<p>
-Allow anyone to create tickets:
-Admin Panel -> Settings -> User Settings
-Registration Required: check "Require registration and login to create tickets" 
+2. Configure Departments:
+<br>                                                                                    
+-Admin Panel -> Agents -> Departments: System Administrators                                                                     
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/JHLujku.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>"
+<img src="https://i.imgur.com/clV4ObT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
-Configure Agents (workers):
-Admin Panel -> Agents -> Add New:
-Jane,
-John
+3. Configure Teams:
+  <br>                                                                                                
+-Admin Panel -> Agents -> Teams
+  <br>                                                                                                
+-Level I Support 
+  <br>                                                                                               
+-Level II Support
+</p>
+<br />
+                                                                                                 
+<p>
+<img src="https://i.imgur.com/8NKG53S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4. Allow anyone to create tickets:
+   <br>                                                                                               
+-Admin Panel -> Settings -> User Settings 
+   <br>                                                                                               
+-Registration Required: check "Require registration and login to create tickets" 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/4BgeNpe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1srDNSn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Users (customers):
-Agent Panel -> Users -> Add New:
-Karen,
-Ken
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/BfvlN9M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Configure SLA:
-Admin Panel -> Manage -> SLA
-Sev-A (1 hour, 24/7),
-Sev-B (4 hours, 24/7),
-Sev-C (8 hours, business hours)
+5. Configure Agents (workers):
+  <br>
+-Admin Panel -> Agents -> Add New: Jane, John
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/uPPKYEm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5mrmRSa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Help Topics:
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage,
-Personal Computer Issues,
-Equipment Request,
-Password Reset
+6. Configure Users (customers):
+  <br>
+-Agent Panel -> Users -> Add New: Karen, Ken
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hhXR9U4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+7. Configure SLA:
+  <br>
+-Admin Panel -> Manage -> SLA
+  <br>
+-Sev-A (1 hour, 24/7)
+  <br>
+-Sev-B (4 hours, 24/7)
+  <br>
+-Sev-C (8 hours, business hours)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/vBeIFGl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+8. Configure Help Topics:
+-Admin Panel -> Manage -> Help Topics
+  <br>
+-Business Critical Outage
+  <br>
+-Personal Computer Issues
+  <br>
+-Equipment Request
+  <br>
+-Password Reset
 </p>
 <br />
